@@ -45,6 +45,7 @@ Welcome to the Solution Architect Learning Path repository! This repository is d
 - [IcePanel](https://icepanel.io)
 - [Draw.io](https://draw.io/)
 - [Web Sequence Diagram](https://www.websequencediagrams.com/)
+- [Mind Meister](mindmeister.com)
 
 ## Certifications
 
